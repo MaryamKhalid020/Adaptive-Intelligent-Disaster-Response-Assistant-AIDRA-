@@ -16,14 +16,14 @@
 
 ## 🛠️ System Architecture
 
-[cite_start]AIDRA follows a structured **Layered Architecture** to ensure modularity and coordinated response[cite: 305, 311]:
-1.  [cite_start]**User Layer**: Interface for rescue operators.
-2.  [cite_start]**Presentation Layer**: Real-time visualization via Pygame and Tkinter.
-3.  [cite_start]**Simulation Layer**: Core engine managing grid states, hazards, and victim health decay.
-4.  [cite_start]**Search & Planning Layer**: Computation of optimal navigation routes.
-5.  [cite_start]**AI Decision Layer**: Integration of ML, RL, and Fuzzy Logic modules.
-6.  [cite_start]**Constraint Satisfaction Layer**: Efficient resource and task allocation.
-7.  [cite_start]**Analytics & Data Layer**: Performance monitoring, decision logging, and live state foundation.
+AIDRA follows a structured **Layered Architecture** to ensure modularity and coordinated response[cite: 305, 311]:
+1.  **User Layer**: Interface for rescue operators.
+2.  **Presentation Layer**: Real-time visualization via Pygame and Tkinter.
+3.  **Simulation Layer**: Core engine managing grid states, hazards, and victim health decay.
+4.  **Search & Planning Layer**: Computation of optimal navigation routes.
+5.  **AI Decision Layer**: Integration of ML, RL, and Fuzzy Logic modules.
+6.  **Constraint Satisfaction Layer**: Efficient resource and task allocation.
+7.  **Analytics & Data Layer**: Performance monitoring, decision logging, and live state foundation.
 
 ## 📊 Performance Summary
 
@@ -32,4 +32,4 @@
 * **Optimization**: CSP heuristics (MRV and Forward Checking) reduced expanded search tree nodes by **65%** and decreased allocation latency by **50%**.
 
 ---
-*Developed by Maryam Khalid and Rohan Munir at Bahria University, Islamabad[cite: 281, 283, 286].*
+*Developed by Maryam Khalid and Rohan Munir at Bahria University, Islamabad.*
