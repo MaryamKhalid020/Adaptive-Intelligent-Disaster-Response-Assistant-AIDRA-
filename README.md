@@ -4,15 +4,15 @@
 
 ## 🚀 Key Features
 
-* [cite_start]**Hybrid AI Framework**: Seamlessly integrates search algorithms, Constraint Satisfaction Problems (CSP), machine learning, reinforcement learning, and fuzzy logic.
-* [cite_start]**Dynamic Simulation Environment**: A 2D grid-based environment ($10 \times 11$) featuring spreading fire zones, blocked roads, and stochastic aftershocks that trigger real-time agent replanning.
-* [cite_start]**Intelligent Pathfinding**: Implements a suite of algorithms including **A*** (with fire penalty weights), **BFS**, **DFS**, and **Greedy Best First Search** for optimal and safety-aware routing.
-* [cite_start]**Smart Resource Allocation**: Utilizes a **CSP Solver** with **Backtracking**, **MRV heuristics**, and **Forward Checking** to manage ambulance-to-victim assignments under strict capacity constraints.
+* **Hybrid AI Framework**: Seamlessly integrates search algorithms, Constraint Satisfaction Problems (CSP), machine learning, reinforcement learning, and fuzzy logic.
+* **Dynamic Simulation Environment**: A 2D grid-based environment ($10 \times 11$) featuring spreading fire zones, blocked roads, and stochastic aftershocks that trigger real-time agent replanning.
+* **Intelligent Pathfinding**: Implements a suite of algorithms including **A*** (with fire penalty weights), **BFS**, **DFS**, and **Greedy Best First Search** for optimal and safety-aware routing.
+* **Smart Resource Allocation**: Utilizes a **CSP Solver** with **Backtracking**, **MRV heuristics**, and **Forward Checking** to manage ambulance-to-victim assignments under strict capacity constraints.
 * **Predictive Analytics**: 
-    * [cite_start]**KNN & MLP**: A hybrid ML module for survival probability estimation, balancing instance-based reasoning with non-linear pattern learning.
-    * [cite_start]**Q-Learning**: An episodic Reinforcement Learning agent using an **Epsilon-Greedy** strategy to discover and exploit safe rescue policies.
-    * [cite_start]**Fuzzy Logic**: Handles environmental uncertainty by computing continuous urgency and risk scores based on victim health and hazards.
-* [cite_start]**Open-Box AI Dashboard**: Real-time visualization providing deep transparency into AI decision-making, including live confusion matrices, "Algorithm Battles," and side-by-side path comparisons.
+    * **KNN & MLP**: A hybrid ML module for survival probability estimation, balancing instance-based reasoning with non-linear pattern learning.
+    * **Q-Learning**: An episodic Reinforcement Learning agent using an **Epsilon-Greedy** strategy to discover and exploit safe rescue policies.
+    * **Fuzzy Logic**: Handles environmental uncertainty by computing continuous urgency and risk scores based on victim health and hazards.
+* **Open-Box AI Dashboard**: Real-time visualization providing deep transparency into AI decision-making, including live confusion matrices, "Algorithm Battles," and side-by-side path comparisons.
 
 ## 🛠️ System Architecture
 
