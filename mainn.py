@@ -1756,4 +1756,4 @@ while True:
 
     pygame.event.pump()       
     pygame.display.update()
-    clock.tick(4)
+    clock.tick(1)
